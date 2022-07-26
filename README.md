@@ -20,3 +20,7 @@ Right alt + Down -> Decrease volume
 Right alt + M -> Mute
 
 Right alt + Space -> Pause
+
+
+## How do I use this?
+[Install Autohotkey](https://www.autohotkey.com/docs/Tutorial.htm)
