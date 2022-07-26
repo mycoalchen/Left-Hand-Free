@@ -5,11 +5,18 @@ I originally made this when I wanted to use an Apple Magic keyboard with my Wind
 ## Shortcuts:
 
 Right alt + Backspace -> Delete key
+
 Command + Shift + A -> Screenshot
 
+
 Right alt + Left -> Previous track
+
 Right alt + Right -> Skip track
+
 Right alt + Up -> Increase volume
+
 Right alt + Down -> Decrease volume
+
 Right alt + M -> Mute
+
 Right alt + Space -> Pause
