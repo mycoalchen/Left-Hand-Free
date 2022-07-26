@@ -42,19 +42,3 @@ RAlt & Up::SendInput {Volume_Up}
 ; Close windows (cmd + q to Alt + F4)
 #q::Send !{F4}
 
-; OS X keyboard mappings for special chars
-
-; Map Alt + N to ©
-!g::SendInput {©}
-
-; Map Alt + E to €
-!e::SendInput {€}
-
-; Map Alt + - to ±
-!+::SendInput {±}
-
-; Map Alt + R to ®
-!r::SendInput {®}
-
-; Map Alt + W to ∑
-!w::SendInput {∑}
