@@ -1,6 +1,6 @@
 # Left-Hand-Free
 
-I originally made this when I wanted to use an Apple Magic keyboard with my Windows PC, but I've since found it helpful for its pure convenience. It lets me use media functions without taking my eyes off the screen to look at the F-keys, and most of these shortcuts can easily be done with just the right hand.
+This script lets you use media functions without taking your eyes off the screen to look at the F-keys. Most of these shortcuts can easily be done with just the right hand.
 
 ## Shortcuts:
 
